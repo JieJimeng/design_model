@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53998de2-9f17-4f21-a04c-944246f2d419" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\workApplication\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:\workApplication\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\workApplication\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1o8mn4ZWUbeGZHd34KYplmy2ImM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/per/factory_method" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="per.factory_method" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="per.build.entity" />
+      <recent name="per.abstract_factory" />
+      <recent name="per.factory_method" />
+      <recent name="" />
+      <recent name="per" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Hand_Traning\design_model\factory_model\src\main\java\per\factory_method" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per.abstract_factory.Client" />
+      <module name="factory_model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="per.abstract_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per.single_factory.Client" />
+      <module name="factory_model" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per.single_factory.Client01" />
+      <module name="factory_model" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per.method_factory.Client" />
+      <module name="factory_model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="per.method_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client01" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53998de2-9f17-4f21-a04c-944246f2d419" name="Default Changelist" comment="" />
+      <created>1612676762337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612676762337</updated>
+      <workItem from="1612676763479" duration="12874000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="40" key="#Inspections" timestamp="1612691442848">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="309" y="40" key="#Inspections/0.0.1366.726@0.0.1366.726" timestamp="1612691442848" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1612676781023">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.726@0.0.1366.726" timestamp="1612676781023" />
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1612692841893">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.726@0.0.1366.726" timestamp="1612692841893" />
+    <state x="463" y="116" key="FileChooserDialogImpl" timestamp="1612676925119">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="463" y="116" key="FileChooserDialogImpl/0.0.1366.726@0.0.1366.726" timestamp="1612676925119" />
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1612692933656">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.726@0.0.1366.726" timestamp="1612692933656" />
+    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1612692933656">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.726@0.0.1366.726" timestamp="1612692933656" />
+    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1612692933656">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.726@0.0.1366.726" timestamp="1612692933656" />
+    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1612692933656">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.726@0.0.1366.726" timestamp="1612692933656" />
+    <state width="1322" height="172" key="GridCell.Tab.1.bottom" timestamp="1612692933651">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.1.bottom/0.0.1366.726@0.0.1366.726" timestamp="1612692933651" />
+    <state width="1322" height="172" key="GridCell.Tab.1.center" timestamp="1612692933649">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.1.center/0.0.1366.726@0.0.1366.726" timestamp="1612692933649" />
+    <state width="1322" height="172" key="GridCell.Tab.1.left" timestamp="1612692933649">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.1.left/0.0.1366.726@0.0.1366.726" timestamp="1612692933649" />
+    <state width="1322" height="172" key="GridCell.Tab.1.right" timestamp="1612692933650">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.1.right/0.0.1366.726@0.0.1366.726" timestamp="1612692933650" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1612681964993">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.726@0.0.1366.726" timestamp="1612681964993" />
+    <state x="346" y="47" width="672" height="678" key="search.everywhere.popup" timestamp="1612689841104">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="346" y="47" width="672" height="678" key="search.everywhere.popup/0.0.1366.726@0.0.1366.726" timestamp="1612689841104" />
+  </component>
+</project>
