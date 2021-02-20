@@ -11,7 +11,8 @@ import java.lang.reflect.Proxy;
 public class Client {
     public static void main(String[] args) {
         StarHandler sh = new StarHandler();
-        Star starProxy = (Star) Proxy.newProxyInstance(ClassLoader.getSystemClassLoader(), new Class[]{Star.class}, sh);
+        Star starProxy = (Star) Proxy.newProxyInstance(
+                ClassLoader.getSystemClassLoader(), new Class[]{Star.class}, sh);
 
         starProxy.confer();
         starProxy.sing();
