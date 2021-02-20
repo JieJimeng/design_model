@@ -22,7 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e27c783c-d049-4d88-a00d-ee175c259184" name="Default Changelist" comment="">
+    <list default="true" id="e915f89f-29fd-4889-aab4-b7e7292e1d77" name="Default Changelist" comment="适配器模式">
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/LowCarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/LuxuryCarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Seat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Tyre.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/build_factory/FirstAirShipBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_model/src/main/java/per/build_factory/FirstAirShipBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/single_factory/Client01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_model/src/main/java/per/single_factory/Client01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../factory_model/target/classes/per/single_factory/Client01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_model/target/classes/per/single_factory/Client01.class" afterDir="false" />
@@ -35,6 +42,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +54,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\workApplication\apache-maven-3.6.3\repository" />
-        <option name="mavenHome" value="D:\workApplication\apache-maven-3.6.3" />
+        <option name="mavenHome" value="D:\workApplication\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="D:\workApplication\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -60,7 +68,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectId" id="1o3aEG3VWrJf4unqP4OhciUTLoV" />
+  <component name="ProjectId" id="1oeGa3DqMdPe2kYa5Ya2B9oJjMD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -70,34 +78,43 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="per" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client01">
+  <component name="RunManager">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Client" />
-      <module name="single_model" />
+      <option name="MAIN_CLASS_NAME" value="per.Client" />
+      <module name="adapter_model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="per.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Client01" />
-      <module name="single_model" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client01" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
@@ -105,18 +122,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e27c783c-d049-4d88-a00d-ee175c259184" name="Default Changelist" comment="" />
-      <created>1612517615116</created>
+      <changelist id="e915f89f-29fd-4889-aab4-b7e7292e1d77" name="Default Changelist" comment="" />
+      <created>1613639706403</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612517615116</updated>
-      <workItem from="1612517616247" duration="1903000" />
-      <workItem from="1612666822879" duration="421000" />
-      <workItem from="1612667400421" duration="124000" />
-      <workItem from="1612667619195" duration="3865000" />
-      <workItem from="1612678100807" duration="610000" />
-      <workItem from="1613615780000" duration="603000" />
+      <updated>1613639706403</updated>
+      <workItem from="1613639707478" duration="2665000" />
     </task>
+    <task id="LOCAL-00001" summary="适配器模式">
+      <created>1613643092426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613643092426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,46 +153,38 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="适配器模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="适配器模式" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="62" key="#com.intellij.ide.util.MemberChooser" timestamp="1612518508638">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1613642750341">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state x="488" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1366.726@0.0.1366.726" timestamp="1612518508638" />
-    <state x="459" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612519432292">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.726@0.0.1366.726" timestamp="1613642750341" />
+    <state width="1322" height="144" key="GridCell.Tab.0.bottom" timestamp="1613643542194">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state x="459" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.726@0.0.1366.726" timestamp="1612519432292" />
-    <state x="453" y="53" key="FileChooserDialogImpl" timestamp="1612517956193">
+    <state width="1322" height="144" key="GridCell.Tab.0.bottom/0.0.1366.726@0.0.1366.726" timestamp="1613643542194" />
+    <state width="1322" height="144" key="GridCell.Tab.0.center" timestamp="1613643542194">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state x="453" y="53" key="FileChooserDialogImpl/0.0.1366.726@0.0.1366.726" timestamp="1612517956193" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1612676761913">
+    <state width="1322" height="144" key="GridCell.Tab.0.center/0.0.1366.726@0.0.1366.726" timestamp="1613643542194" />
+    <state width="1322" height="144" key="GridCell.Tab.0.left" timestamp="1613643542194">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.726@0.0.1366.726" timestamp="1612676761913" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1612676761912">
+    <state width="1322" height="144" key="GridCell.Tab.0.left/0.0.1366.726@0.0.1366.726" timestamp="1613643542194" />
+    <state width="1322" height="144" key="GridCell.Tab.0.right" timestamp="1613643542194">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.726@0.0.1366.726" timestamp="1612676761912" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1612676761911">
+    <state width="1322" height="144" key="GridCell.Tab.0.right/0.0.1366.726@0.0.1366.726" timestamp="1613643542194" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1613642106486">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.726@0.0.1366.726" timestamp="1612676761911" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1612676761913">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.726@0.0.1366.726" timestamp="1613642106486" />
+    <state x="275" y="0" key="Vcs.Push.Dialog.v2" timestamp="1613643098856">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.726@0.0.1366.726" timestamp="1612676761913" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1612675622375">
-      <screen x="0" y="0" width="1366" height="726" />
-    </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.726@0.0.1366.726" timestamp="1612675622375" />
-    <state x="231" y="0" width="598" height="726" key="find.popup" timestamp="1612675753156">
-      <screen x="0" y="0" width="1366" height="726" />
-    </state>
-    <state x="231" y="0" width="598" height="726" key="find.popup/0.0.1366.726@0.0.1366.726" timestamp="1612675753156" />
-    <state x="53" y="22" key="new project wizard" timestamp="1612676751135">
-      <screen x="0" y="0" width="1366" height="726" />
-    </state>
-    <state x="53" y="22" key="new project wizard/0.0.1366.726@0.0.1366.726" timestamp="1612676751135" />
+    <state x="275" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.726@0.0.1366.726" timestamp="1613643098856" />
   </component>
 </project>

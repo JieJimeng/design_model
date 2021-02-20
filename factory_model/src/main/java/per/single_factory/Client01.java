@@ -9,9 +9,14 @@ package per.single_factory;
 public class Client01 {
     public static void main(String[] args) {
         Car c1 = CarFactory.createCar("奥迪");
+        Car c3 = CarFactory.createCar("奥迪");
         Car c2 = CarFactory.createCar("比亚迪");
 
         c1.run();
         c2.run();
+        c3.run();
+
+        System.out.println(c1);
+        System.out.println(c3);
     }
 }

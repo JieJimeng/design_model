@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c12aad4-c756-4136-867b-8216198e72f1" name="Default Changelist" comment="原型模式">
+      <change afterPath="$PROJECT_DIR$/../adapter_model/src/main/java/per/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapter_model/src/main/java/per/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapter_model/src/main/java/per/Adapter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapter_model/src/main/java/per/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapter_model/src/main/java/per/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/LowCarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/LuxuryCarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Seat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Tyre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/build_factory/FirstAirShipBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_model/src/main/java/per/build_factory/FirstAirShipBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/single_factory/Client01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_model/src/main/java/per/single_factory/Client01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_model/target/classes/per/single_factory/Client01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_model/target/classes/per/single_factory/Client01.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\workApplication\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:\workApplication\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\workApplication\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1odsGdlWITgsPBHlLDYm3TUFpLf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="deep_clone" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client_02">
+    <configuration name="Client_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shallow_clone.Client_01" />
+      <module name="phototype_model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shallow_clone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="deep_clone.Client_02" />
+      <module name="phototype_model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deep_clone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client_01" />
+      <item itemvalue="Application.Client_02" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client_02" />
+        <item itemvalue="Application.Client_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c12aad4-c756-4136-867b-8216198e72f1" name="Default Changelist" comment="" />
+      <created>1613627709991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613627709991</updated>
+      <workItem from="1613627718469" duration="10391000" />
+    </task>
+    <task id="LOCAL-00001" summary="原型模式">
+      <created>1613637738332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613637738332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="原型模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="原型模式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="726" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613634461617">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="137" y="0" width="1092" height="726" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.726@0.0.1366.726" timestamp="1613634461617" />
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1613633534701">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.726@0.0.1366.726" timestamp="1613633534701" />
+    <state width="1322" height="304" key="GridCell.Tab.0.bottom" timestamp="1613637569881">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="304" key="GridCell.Tab.0.bottom/0.0.1366.726@0.0.1366.726" timestamp="1613637569881" />
+    <state width="1322" height="304" key="GridCell.Tab.0.center" timestamp="1613637569881">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="304" key="GridCell.Tab.0.center/0.0.1366.726@0.0.1366.726" timestamp="1613637569881" />
+    <state width="1322" height="304" key="GridCell.Tab.0.left" timestamp="1613637569881">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="304" key="GridCell.Tab.0.left/0.0.1366.726@0.0.1366.726" timestamp="1613637569881" />
+    <state width="1322" height="304" key="GridCell.Tab.0.right" timestamp="1613637569881">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="304" key="GridCell.Tab.0.right/0.0.1366.726@0.0.1366.726" timestamp="1613637569881" />
+    <state width="1322" height="304" key="GridCell.Tab.1.bottom" timestamp="1613637569881">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="304" key="GridCell.Tab.1.bottom/0.0.1366.726@0.0.1366.726" timestamp="1613637569881" />
+    <state width="1322" height="304" key="GridCell.Tab.1.center" timestamp="1613637569881">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="304" key="GridCell.Tab.1.center/0.0.1366.726@0.0.1366.726" timestamp="1613637569881" />
+    <state width="1322" height="304" key="GridCell.Tab.1.left" timestamp="1613637569881">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="304" key="GridCell.Tab.1.left/0.0.1366.726@0.0.1366.726" timestamp="1613637569881" />
+    <state width="1322" height="304" key="GridCell.Tab.1.right" timestamp="1613637569881">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state width="1322" height="304" key="GridCell.Tab.1.right/0.0.1366.726@0.0.1366.726" timestamp="1613637569881" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1613634537744">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.726@0.0.1366.726" timestamp="1613634537744" />
+    <state x="275" y="0" key="Vcs.Push.Dialog.v2" timestamp="1613637746862">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="275" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.726@0.0.1366.726" timestamp="1613637746862" />
+    <state x="487" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613637527482">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="487" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.726@0.0.1366.726" timestamp="1613637527482" />
+    <state x="53" y="22" key="new project wizard" timestamp="1613639702093">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="53" y="22" key="new project wizard/0.0.1366.726@0.0.1366.726" timestamp="1613639702093" />
+    <state x="346" y="47" width="672" height="678" key="search.everywhere.popup" timestamp="1613629077622">
+      <screen x="0" y="0" width="1366" height="726" />
+    </state>
+    <state x="346" y="47" width="672" height="678" key="search.everywhere.popup/0.0.1366.726@0.0.1366.726" timestamp="1613629077622" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/deep_clone/Client_02.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
