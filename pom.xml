@@ -6,6 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>design_model</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>adapter_model</module>
@@ -24,6 +25,7 @@
         <module>single_model</module>
         <module>state_model</module>
         <module>strategy_model</module>
+        <module>command_model</module>
     </modules>
 
 </project>
