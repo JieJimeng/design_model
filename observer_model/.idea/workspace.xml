@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61065046-53ba-461f-93fa-cdd67feaebb6" name="Default Changelist" comment="责任链模式" />
+    <list default="true" id="9ad8b489-68db-4ac0-814c-8643bc82260a" name="Default Changelist" comment="观察者模式，利用java.util包下的Observable类和Observer接口" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +53,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectId" id="1ojWrFc1RjK1X7QHoT3h1WLQr9D" />
+  <component name="ProjectId" id="1oofK62TlwfVEn0B56Dkq1UHH1g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,16 +64,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proxy_model" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per1.Client" />
+      <module name="observer_model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="per1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="per.Client" />
-      <module name="responsibility_chain_model" />
+      <module name="observer_model" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="per.*" />
@@ -86,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
@@ -95,21 +108,35 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="61065046-53ba-461f-93fa-cdd67feaebb6" name="Default Changelist" comment="" />
-      <created>1613800676369</created>
+      <changelist id="9ad8b489-68db-4ac0-814c-8643bc82260a" name="Default Changelist" comment="" />
+      <created>1613957798524</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613800676369</updated>
-      <workItem from="1613800679307" duration="3261000" />
+      <updated>1613957798524</updated>
+      <workItem from="1613957814616" duration="5804000" />
     </task>
-    <task id="LOCAL-00001" summary="责任链模式">
-      <created>1613802527921</created>
+    <task id="LOCAL-00001" summary="观察者模式">
+      <created>1613960797068</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1613802527921</updated>
+      <updated>1613960797068</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="观察者模式">
+      <created>1613961250670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613961250670</updated>
+    </task>
+    <task id="LOCAL-00003" summary="观察者模式，利用java.util包下的Observable类和Observer接口">
+      <created>1613962520342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613962520342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,41 +154,42 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="责任链模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="责任链模式" />
+    <MESSAGE value="观察者模式" />
+    <MESSAGE value="观察者模式，利用java.util包下的Observable类和Observer接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="观察者模式，利用java.util包下的Observable类和Observer接口" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1613801270424">
+    <state x="488" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1613961955478">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.726@0.0.1366.726" timestamp="1613801270424" />
-    <state x="463" y="116" key="FileChooserDialogImpl" timestamp="1613805539387">
+    <state x="488" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1366.726@0.0.1366.726" timestamp="1613961955478" />
+    <state x="463" y="116" key="FileChooserDialogImpl" timestamp="1613964436410">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state x="463" y="116" key="FileChooserDialogImpl/0.0.1366.726@0.0.1366.726" timestamp="1613805539387" />
-    <state width="1322" height="172" key="GridCell.Tab.0.bottom" timestamp="1613805540847">
+    <state x="463" y="116" key="FileChooserDialogImpl/0.0.1366.726@0.0.1366.726" timestamp="1613964436410" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1613964984888">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.726@0.0.1366.726" timestamp="1613805540847" />
-    <state width="1322" height="172" key="GridCell.Tab.0.center" timestamp="1613805540847">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.726@0.0.1366.726" timestamp="1613964984888" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1613964984888">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.726@0.0.1366.726" timestamp="1613805540847" />
-    <state width="1322" height="172" key="GridCell.Tab.0.left" timestamp="1613805540847">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.726@0.0.1366.726" timestamp="1613964984888" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1613964984888">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.726@0.0.1366.726" timestamp="1613805540847" />
-    <state width="1322" height="172" key="GridCell.Tab.0.right" timestamp="1613805540847">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.726@0.0.1366.726" timestamp="1613964984888" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1613964984888">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.726@0.0.1366.726" timestamp="1613805540847" />
-    <state x="275" y="0" key="Vcs.Push.Dialog.v2" timestamp="1613802536111">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.726@0.0.1366.726" timestamp="1613964984888" />
+    <state x="275" y="0" key="Vcs.Push.Dialog.v2" timestamp="1613962523132">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state x="275" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.726@0.0.1366.726" timestamp="1613802536111" />
-    <state x="346" y="47" width="672" height="678" key="search.everywhere.popup" timestamp="1613801558981">
+    <state x="275" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.726@0.0.1366.726" timestamp="1613962523132" />
+    <state x="53" y="21" key="new project wizard" timestamp="1613964980508">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state x="346" y="47" width="672" height="678" key="search.everywhere.popup/0.0.1366.726@0.0.1366.726" timestamp="1613801558981" />
+    <state x="53" y="21" key="new project wizard/0.0.1366.726@0.0.1366.726" timestamp="1613964980508" />
   </component>
 </project>

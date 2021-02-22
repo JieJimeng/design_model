@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -29,16 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff086690-fc76-429a-a8e7-fad94487ac6e" name="Default Changelist" comment="代理模式">
-      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/CarFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/LowCarFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/LuxuryCarFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Seat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/abstract_factory/Tyre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/build_factory/FirstAirShipBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_model/src/main/java/per/build_factory/FirstAirShipBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory_model/src/main/java/per/single_factory/Client01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_model/src/main/java/per/single_factory/Client01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory_model/target/classes/per/single_factory/Client01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_model/target/classes/per/single_factory/Client01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/per/dynamic_proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/per/dynamic_proxy/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +70,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/per/dynamic_proxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -122,17 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Client (1)" />
@@ -140,7 +118,10 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ff086690-fc76-429a-a8e7-fad94487ac6e" name="Default Changelist" comment="" />
@@ -149,6 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613699927969</updated>
       <workItem from="1613699931231" duration="6575000" />
+      <workItem from="1613805542809" duration="1029000" />
     </task>
     <task id="LOCAL-00001" summary="代理模式">
       <created>1613706507497</created>
@@ -161,7 +143,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -185,6 +167,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="代理模式" />
@@ -223,9 +206,9 @@
       <screen x="0" y="0" width="1366" height="726" />
     </state>
     <state x="275" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.726@0.0.1366.726" timestamp="1613706512027" />
-    <state x="53" y="22" key="new project wizard" timestamp="1613714779556">
+    <state x="53" y="22" key="new project wizard" timestamp="1613806701392">
       <screen x="0" y="0" width="1366" height="726" />
     </state>
-    <state x="53" y="22" key="new project wizard/0.0.1366.726@0.0.1366.726" timestamp="1613714779556" />
+    <state x="53" y="22" key="new project wizard/0.0.1366.726@0.0.1366.726" timestamp="1613806701392" />
   </component>
 </project>
