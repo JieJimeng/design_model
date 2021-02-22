@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>design_model</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>adapter_model</module>
+        <module>bridge_model</module>
+        <module>builder_model</module>
+        <module>combination_model</module>
+        <module>decorator_model</module>
+        <module>factory_model</module>
+        <module>flyweight_model</module>
+        <module>mediator_model</module>
+        <module>memento_model</module>
+        <module>observer_model</module>
+        <module>phototype_model</module>
+        <module>proxy_model</module>
+        <module>responsibility_chain_model</module>
+        <module>single_model</module>
+        <module>state_model</module>
+        <module>strategy_model</module>
+    </modules>
+
+</project>
